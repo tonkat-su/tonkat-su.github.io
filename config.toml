@@ -1,6 +1,6 @@
 baseURL = 'https://tonkat.su/'
 languageCode = 'en-us'
-title = 'tonkat.su'
+title = 'tonkatsu'
 theme = 'theme'
 
 [Params]
