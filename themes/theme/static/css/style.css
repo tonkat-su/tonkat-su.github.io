@@ -7,6 +7,7 @@ body {
   max-width: 45rem;
   padding: 1rem;
   margin: 0 auto;
+  font-family: monospace;
 }
 
 .content {
@@ -21,7 +22,6 @@ body {
 
 .site-nav a {
   display: block;
-  padding: 1rem;
 }
 
 .site-nav .logo {
@@ -37,6 +37,7 @@ body {
 }
 
 @media screen and (max-width: 48rem) {
+
   .site-nav,
   .main-menu {
     flex-direction: column;
