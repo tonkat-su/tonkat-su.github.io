@@ -1,0 +1,9 @@
+baseURL = 'https://tonkat.su/'
+languageCode = 'en-us'
+title = 'tonkat.su'
+theme = 'theme'
+
+[Params]
+mainSections = "post"
+summary = true
+toc = true
