@@ -1,14 +1,27 @@
 /* LAYOUT */
 
 body {
-  color: #222;
-  background: #ddd;
   font-size: 125%;
   line-height: 1.5;
   max-width: 45rem;
   padding: 1rem;
   margin: 0 auto;
   font-family: monospace;
+}
+
+@media (prefers-color-scheme: light) {
+  body {
+    background: #ddd;
+    color: #222;
+  }
+
+  a {
+    color: #0f82af;
+  }
+
+  a:visited {
+    color: #0f82af;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
