@@ -8,8 +8,12 @@
 		"vscode": {
 			"extensions": [
 				"bungcip.better-toml",
-				"davidanson.vscode-markdownlint"
-			]
+				"davidanson.vscode-markdownlint",
+				"stkb.rewrap"
+			],
+			"settings": {
+				"rewrap.autoWrap.enabled": true
+			}
 		}
 	},
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
