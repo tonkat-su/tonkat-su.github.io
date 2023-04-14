@@ -29,3 +29,10 @@
     color: #0f82af;
   }
 }
+
+img,
+video {
+  height: auto;
+  max-width: 80%;
+  display: block;
+}
