@@ -1,7 +1,7 @@
 ---
 title: "Noninvasive Dryer Done Notifications"
 date: 2023-04-10T09:16:07Z
-draft: true
+draft: false
 math: true
 ---
 ## Problem
