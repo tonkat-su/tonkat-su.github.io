@@ -98,13 +98,13 @@ $$ I_p = \frac{R_3}{NV} $$
 
 However, SCT013 documentation does not include the number of turns, nor does it
 include the internal burden resistor value. To work around this, we can measure
-$V$ with the clamp on a wire plugged into a Kill-A-Watt, which provides $I_s$
+$V$ with the clamp on a wire plugged into a Kill-A-Watt, which provides $I_p$
 value.
 
 Using Ohm’s law, we get this formula to calculate the constant ratio $T$ between
 $I_p$ and $V$:
 
-$$ \frac{R_3}{N} = \frac{V}{I_s} = T $$
+$$ \frac{R_3}{N} = \frac{V}{I_p} = T $$
 
 $T$ can then be used to obtain the current draw in the primary winding:
 
